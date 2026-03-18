@@ -1,7 +1,7 @@
-questions = [
-    ["1. What is the capital of India?"],
-    ["2. Who is the father of Python?"],
-    ["3. Which number is even?"]
+ questions = [
+    "1. What is the capital of India?",
+    "2. Who is the father of Python?",
+    "3. Which number is even?"
 ]
 
 options = [
